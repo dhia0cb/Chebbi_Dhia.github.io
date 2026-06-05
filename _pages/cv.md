@@ -12,7 +12,7 @@ redirect_from:
 
 ## Download Resume
 
-[📄 Download My CV](/CV_Dhia_Chebbi.pdf)
+[📄 Download My CV](/CV_2026-06-01_dhia_chebbi.pdf)
 
 {% include base_path %}
 
